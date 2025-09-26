@@ -25,7 +25,7 @@ git add .
 
 ## Prepare your changes to commit and give it a message
 ```bash
-git add commit -m "message commit"
+git commit -m "message commit"
 ```
 
 ## Commit your changes into your branch
